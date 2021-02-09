@@ -1,16 +1,12 @@
-### Hi there 👋
+### Konyang University Cyber Security Engineering 1 Grade  
 
-<!--
-**jihyungeun/jihyungeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MY CTF Record  
+2019 NCSC CTF 8th  
+2019 YISF Preliminary 19th  
+2019 YISF Finals 19th  
+2019 SHADOW CTF 10th  
+  
+2020 Codegate CTF Preliminary Junior 18th  
+2020 b01ers CTF 47th  
+2020 Defenit CTF 126th  
+2020 Codegate CTF Finals Junior 18th  
