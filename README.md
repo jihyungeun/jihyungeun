@@ -8,4 +8,4 @@
 2020 Codegate CTF Junior 18th    
 2020 b01ers CTF 47th  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyungeun)](https://github.com/jihyungeun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyungeun&layout=compact)](https://github.com/jihyungeun/github-readme-stats)
