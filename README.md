@@ -1,4 +1,4 @@
-### Konyang University Cyber Security Engineering 1 Grade  
+### Konyang University Cyber Security Engineering 2 Grade  
 
 ## MY CTF Record  
 2019 NCSC CTF 8th   
